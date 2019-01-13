@@ -1,4 +1,5 @@
-Kotlin Btc bitcoinj Parse Block Data Demo
-=========================================
+Kotlin Btc bitcoinj Split Blockdata to Individual Block Files Demo
+==================================================================
 
-Run `Hello.kt` in your IDE.
+1. Run `SplitToBlockFiles.kt` in your IDE first, to split to block files
+2. Run `ReadBlockByHeight.kt` to read block by given height
